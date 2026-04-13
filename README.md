@@ -1,6 +1,5 @@
 # Deep-Learning
 
-**Part_1_DL_Two_Step.ipynb → main notebook**
 
 ## How to run
 1. Open in Google Colab OR locally with Jupyter
